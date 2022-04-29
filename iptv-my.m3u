@@ -15,9 +15,6 @@ http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index
 #EXTINF:-1 tvg-id="cctv5" tvg-logo="cctv5.png",CCTV-5 体育
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 
-#EXTINF:-1 tvg-id="cctv5plus" tvg-logo="cctv5+.png",CCTV-5+ 体育赛事
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-
 #EXTINF:-1 tvg-id="cctv6" tvg-logo="cctv6.png",CCTV-6 电影
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
 
@@ -47,6 +44,9 @@ http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index
 
 #EXTINF:-1 tvg-id="cctv15" tvg-logo="cctv15.png",CCTV-15 音乐
 http://117.148.179.160/PLTV/88888888/224/3221231693/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv5plus" tvg-logo="cctv5+.png",CCTV-5+ 体育赛事
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 
 #EXTINF:-1 tvg-id="cctv17" tvg-logo="cctv17.png",CCTV-17 农业农村
 http://117.148.179.160/PLTV/88888888/224/3221231772/index.m3u8
