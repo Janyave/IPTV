@@ -1,4 +1,4 @@
-#EXTM3U url-logos="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo/master/"
+#EXTM3U url-logos="https://gitee.com/frankwuzp/iptv/raw/master/tvg-logo/"
 
 #EXTINF:-1 tvg-id="cctv1" tvg-logo="cctv1.png",CCTV-1 综合
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
@@ -37,7 +37,7 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221225628/index.m3u8
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
 
 #EXTINF:-1 tvg-id="cctv13" tvg-logo="cctv13.png",CCTV-13 新闻
-http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225812/index.m3u8
 
 #EXTINF:-1 tvg-id="cctvchild" tvg-logo="cctvchild.png",CCTV-14 少儿
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
